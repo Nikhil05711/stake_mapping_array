@@ -1,0 +1,69 @@
+{
+	"compiler": {
+		"version": "0.8.11+commit.d7f03943"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_address",
+						"type": "address"
+					},
+					{
+						"internalType": "string",
+						"name": "name",
+						"type": "string"
+					},
+					{
+						"internalType": "uint16",
+						"name": "age",
+						"type": "uint16"
+					}
+				],
+				"name": "studentRegistration",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"structs/contracts/Procedural.sol": "Procedural"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"structs/contracts/Procedural.sol": {
+			"keccak256": "0xb36fee1da2f7fda87bd2c5e9791e00197bf59dc2eb89b93758d1f6055cbdbae0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c16ba97b312e5e27ab4b5fa5ce58d1f196706d0daa8e1e30d6d3bd5c74099ad5",
+				"dweb:/ipfs/QmZjJHG8kZD8zQF2rpbCo7uDqToCzT9GXVsrYDNr3VRAS3"
+			]
+		}
+	},
+	"version": 1
+}
