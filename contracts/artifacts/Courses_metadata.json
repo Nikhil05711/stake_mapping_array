@@ -127,7 +127,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"structs/contracts/Procedural.sol": "Courses"
+			"contracts/Procedural.sol": "Courses"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -138,7 +138,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"structs/contracts/Procedural.sol": {
+		"contracts/Procedural.sol": {
 			"keccak256": "0x52d16d45502013a398e367e9a23ac1edb2f7202d687b58422616f834d7bc5da0",
 			"urls": [
 				"bzz-raw://641cc9e994117280c1cb7c9020fc56eea51c957c75b40d86d89b374bb363e2bb",
